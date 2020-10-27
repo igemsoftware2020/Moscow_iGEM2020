@@ -1,5 +1,5 @@
 # Moscow_iGEM2020
-Kinetic model of the detection system with CasX. Description of the model and results you can see [here](https://2020.igem.org/Team:Moscow/Model)
+Kinetic model of the detection system with CasX. Description of the model and results you can see in [our wiki page](https://2020.igem.org/Team:Moscow/Model)
 
 We created a detailed kinetic model to ensure system performance, optimal conditions, reaction time, and potential sensitivity. The goals of the model are the following:
 - To confirm our expectations of system functioning, such as the potential to detect nucleic acids in a reasonable time
